@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Team and Professional Skills",
+    "overview": "At Andela, our values can be sumarized as EPIC - Excellence, Passion, Integrity, and Collaboration. This module covers the fundamental principles of being EPIC. ",
+    "objectives": [
+      "The Andela principles behind Excellence, Passion, Integrity and Collaboration"
+    ],
+    "content": [
+      {
+        "name": "epic-values",
+        "title": "Andela EPIC Values",
+        "link": "content/0/epic-values",
+        "source": "andela",
+        "content": [
+          {
+            "name": "epic-values--excellence",
+            "title": "Andela EPIC Values",
+            "link": "content/0/epic-values--excellence",
+            "source": "andela"
+          },
+          {
+            "name": "epic-values--passion",
+            "title": "Andela EPIC Values",
+            "link": "content/0/epic-values--passion",
+            "source": "andela"
+          },
+          {
+            "name": "epic-values--integrity",
+            "title": "Andela EPIC Values",
+            "link": "content/0/epic-values--integrity",
+            "source": "andela"
+          },
+          {
+            "name": "epic-values--collaboration",
+            "title": "Andela EPIC Values",
+            "link": "content/0/epic-values--collaboration",
+            "source": "andela"
+          }
+        ]
+      },
+      {
+        "name": "distributed-engineering",
+        "title": "Introduction to Distributed Engineering",
+        "link": "content/0/distributed-engineering",
+        "source": "andela",
+        "content": [
+          {
+            "name": "distributed-engineering--bestpractices",
+            "title": "Introduction to Distributed Engineering",
+            "link": "content/0/distributed-engineering--bestpractices",
+            "source": "andela"
+          },
+          {
+            "name": "distributed-engineering--agilemethodology",
+            "title": "Introduction to Distributed Engineering",
+            "link": "content/0/distributed-engineering--agilemethodology",
+            "source": "andela"
+          }
+        ]
+      },
+      {
+        "name": "organization-awareness",
+        "title": "Organizational Functional Awareness",
+        "link": "content/0/organization-awareness",
+        "source": "andela",
+        "content": [
+          {
+            "name": "organization-awareness--business",
+            "title": "Organizational Functional Awareness",
+            "link": "content/0/organization-awareness--business",
+            "source": "andela"
+          },
+          {
+            "name": "organization-awareness--visionalignment",
+            "title": "Organizational Functional Awareness",
+            "link": "content/0/organization-awareness--visionalignment",
+            "source": "andela"
+          }
+        ]
+      },
+      {
+        "name": "proactive-communication",
+        "title": "Proactive Communication",
+        "link": "content/0/proactive-communication",
+        "source": "andela",
+        "content": [
+          {
+            "name": "proactive-communication--submodule",
+            "title": "Proactive Communication",
+            "link": "content/0/proactive-communication--submodule",
+            "source": "andela"
+          }
+        ]
+      },
+      {
+        "name": "stakeholder-management",
+        "title": "Stakeholder and Expectations Management",
+        "link": "content/0/stakeholder-management",
+        "source": "andela",
+        "content": [
+          {
+            "name": "stakeholder-management--submodule",
+            "title": "Stakeholder and Expectations Management",
+            "link": "content/0/stakeholder-management--submodule",
+            "source": "andela"
+          },
+          {
+            "name": "stakeholder-management--expectations",
+            "title": "Stakeholder and Expectations Management",
+            "link": "content/0/stakeholder-management--expectations",
+            "source": "andela"
+          }
+        ]
+      },
+      {
+        "name": "adaptability",
+        "title": "Adaptability",
+        "link": "content/0/adaptability",
+        "source": "andela",
+        "content": [
+          {
+            "name": "adaptability--submodule",
+            "title": "Adaptability",
+            "link": "content/0/adaptability--submodule",
+            "source": "andela"
+          }
+        ]
+      },
+      {
+        "name": "feedback",
+        "title": "Seeking Feedback",
+        "link": "content/0/feedback",
+        "source": "andela",
+        "content": [
+          {
+            "name": "feedback--seekingfeedback",
+            "title": "Seeking Feedback",
+            "link": "content/0/feedback--seekingfeedback",
+            "source": "andela"
+          }
+        ]
+      },
+      {
+        "name": "leadership",
+        "title": "Leadership",
+        "link": "content/0/leadership",
+        "source": "andela",
+        "content": [
+          {
+            "name": "leadership--submodule",
+            "title": "Leadership",
+            "link": "content/0/leadership--submodule",
+            "source": "andela"
+          },
+          {
+            "name": "leadership--mentorship",
+            "title": "Leadership",
+            "link": "content/0/leadership--mentorship",
+            "source": "andela"
+          },
+          {
+            "name": "leadership--relationship",
+            "title": "Leadership",
+            "link": "content/0/leadership--relationship",
+            "source": "andela"
+          }
+        ]
+      },
+      {
+        "name": "estimation",
+        "title": "Agile Estimation and Time Management",
+        "link": "content/0/estimation",
+        "source": "andela",
+        "content": [
+          {
+            "name": "agile--estimation",
+            "title": "Agile Estimation and Time Management",
+            "link": "content/0/agile--estimation",
+            "source": "andela"
+          },
+          {
+            "name": "time--management",
+            "title": "Agile Estimation and Time Management",
+            "link": "content/0/time--management",
+            "source": "andela"
+          }
+        ]
+      },
+      {
+        "name": "project-management",
+        "title": "Project Management Tools",
+        "link": "content/0/project-management",
+        "source": "andela",
+        "content": [
+          {
+            "name": "project-management--tools",
+            "title": "Project Management Tools",
+            "link": "content/0/project-management--tools",
+            "source": "andela"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Stack-Agnostic Technical Skills",
+    "overview": "The technical skills covered under this section are those that cut across all language stacks. Understanding these skills well will set up for success in the subsequent sections.",
+    "objectives": [
+      "Proper understanding of Data Structures and Algorithms",
+      "Introduction to the Functional Programming paradigm",
+      "Application of System Design knowledge to Sofware Development",
+      "Introduction to common software Design Patterns."
+    ],
+    "content": [
+      {
+        "name": "data-structures-and-algorithms",
+        "title": "Data Structures and Algorithms",
+        "link": "content/1/data-structures-and-algorithms",
+        "source": "andela"
+      },
+      {
+        "name": "regular-expressions",
+        "title": "Regular Expressions",
+        "link": "content/1/regular-expressions",
+        "source": "andela"
+      },
+      {
+        "name": "version-control",
+        "title": "Git and Version Control",
+        "link": "content/1/version-control",
+        "source": "andela"
+      },
+      {
+        "name": "databases",
+        "title": "Databases and SQL Queries",
+        "link": "content/1/databases",
+        "source": "andela"
+      },
+      {
+        "name": "functional-programming",
+        "title": "Functional Programming",
+        "link": "content/1/functional-programming",
+        "source": "andela"
+      },
+      {
+        "name": "systems-design",
+        "title": "Systems Design",
+        "link": "content/1/systems-design",
+        "source": "andela"
+      },
+      {
+        "name": "design-patterns",
+        "title": "Design Patterns",
+        "link": "content/1/design-patterns",
+        "source": "andela"
+      }
+    ]
+  },
+
+  {
+    "name": "Ruby Fundamentals",
+    "overview": "This module covers the most fundamental concepts of the Ruby Programming Language. Essentially, this module gives the learner a firm foundation for the Ruby on Rails module. A deeper understanding of the underlying properties of a particular language that powers a web framework is essential to any web developer.",
+    "objectives": [
+      "Proper understanding of how to write idiomatic Ruby code",
+      "A deeper understanding of the art of refactoring",
+      "How to apply OOP concepts in Ruby",
+      "How to implement different Algorithms in Ruby",
+      "Proper understanding of how Ruby Metaprogamming works"
+    ],
+    "content": [
+      {
+        "name": "idiomatic-ruby",
+        "title": "Idiomatic Ruby",
+        "link": "content/2/idiomatic-ruby",
+        "source": "andela"
+      },
+      {
+        "name": "ruby-code-refactoring",
+        "title": "Ruby Code Refactoring",
+        "link": "content/2/ruby-code-refactoring",
+        "source": "andela"
+      },
+      {
+        "name": "oop-ruby",
+        "title": "Object-Oriented Design Concepts in Ruby",
+        "link": "content/2/oop-ruby",
+        "source": "andela"
+      },
+      {
+        "name": "dsa-ruby",
+        "title": "Data Structures and Algorithms in Ruby",
+        "link": "content/2/dsa-ruby",
+        "source": "andela"
+      },
+      {
+        "name": "ruby-metaprogamming",
+        "title": "Ruby Metaprogamming",
+        "link": "content/2/ruby-metaprogamming",
+        "source": "andela"
+      }
+    ]
+  },
+
+  {
+    "name": "Ruby on Rails Fundamentals",
+    "overview": "Ruby on Rails (RoR) is a Ruby-based web application development framework. The framework is based on Model-View-Controller (MVC) architecture. This module covers the ins-and-outs of this popular web framework.",
+    "objectives": [
+      "Understanding of the MVC architecture",
+      "Understanding of how to design APIs using Rails",
+      "Understanding of how Rails Templating Engines work",
+      "Understand of Ruby Active Record and ORMs",
+      "Understanding of how TDD is done in Rails",
+      "Understanding of Web Performance Optimization",
+      "Understanding of Web App Security"
+    ],
+    "content": [
+      {
+        "name": "rails-mvc-architecture",
+        "title": "Ruby on Rails MVC Architecture",
+        "link": "content/3/rails-mvc-architecture",
+        "source": "andela"
+      },
+      {
+        "name": "rails-api-design",
+        "title": "Ruby on Rails API Design",
+        "link": "content/3/rails-api-design",
+        "source": "andela"
+      },
+      {
+        "name": "rails-templating-engines",
+        "title": "Rails Templating Engines",
+        "link": "content/3/rails-templating-engines",
+        "source": "andela"
+      },
+      {
+        "name": "active-record-orm",
+        "title": "Active Record and ORMs",
+        "link": "content/3/active-record-orm",
+        "source": "andela"
+      },
+      {
+        "name": "tdd-rspec",
+        "title": "TDD using RSpec",
+        "link": "content/3/tdd-rspec",
+        "source": "andela"
+      },
+      {
+        "name": "performance-optimization",
+        "title": "Web Performance Optimization",
+        "link": "content/3/performance-optimization",
+        "source": "andela"
+      },
+      {
+        "name": "application-security",
+        "title": "Web Application Security",
+        "link": "content/3/application-security",
+        "source": "andela"
+      }
+    ]
+  },
+
+  {
+    "name": "Ruby on Rails Capstone Project",
+    "overview": "At Andela, we believe in Agile Software Development Methodology, and as such we try to live by its principles.",
+    "objectives": [
+      "Explain the meaning of agile software development",
+      "Be familiar with tools used for agile software development",
+      "Understand how to use Pivotal Tracker"
+    ],
+    "content": [
+      {
+        "name": "capstone-project",
+        "title": "Rails Capstone Project",
+        "link": "content/4/capstone-project",
+        "source": "andela"
+      }
+    ]
+  }
+]

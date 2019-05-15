@@ -1,0 +1,153 @@
+
+<link rel="import" href="../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
+<link rel="import" href="my-icons.html">
+<link rel="import" href="shared-styles.html">
+
+<dom-module id="home-page">
+  <template>
+    <style include="shared-styles">
+      :host {
+        display: block;
+        padding: 10px;
+        /*background: url("../images/orange-glyph.png") 50% bottom no-repeat;*/
+      }
+
+      table.modules-tbl td a{
+        color: #333;
+        font-size: 1.2em;
+      }
+
+      table.modules-tbl td:hover a,
+      table.modules-tbl td a:hover{
+        color: #111;
+        text-decoration: none;
+      }
+
+      #join{
+        position: relative;
+        top: 5em;
+        left: 20em;
+      }
+    </style>
+
+    <div class="page-wide">
+      <div class="mdl-grid">
+        <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+          <h1>Curriculum Overview</h1>
+          <p class="color-white">The Senior Engineer Curriculum from Andela is here to help you level-up on your Software Development skills.</p>
+          <p class="color-white">The curriculum provides you with the necessary contents and resources required to fully level-up on the most important areas of software development, and gain a thorough understanding of Software Engineering best practices.
+          By covering this curriculum, you will be comfortable with Software Development concepts -- empowering you to engage with a vibrant community of like-minded learners at all levels of experience.</p>
+
+          <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/288380900?autoplay=1&loop=1" style="position:absolute;top:0;left:0;width:100%;height:100%;"
+              frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+          <!--
+          <div class="note">
+              <b>Important Note</b>
+              <ul>
+                <li>Are you applying to our East African office in Nairobi or Kampala? If yes, ensure to click the <iron-icon icon="my-icons:py"></iron-icon> icon on the top right corner to follow the <b>Python track.</b></li>
+                <li>Are you applying to our West African office in Lagos? ensure to click the <iron-icon icon="my-icons:js"></iron-icon> icon on the top right corner to follow the <b>JavaScript track</b></li>
+              </ul>
+          </div>
+          -->
+          <!-- <p>
+            <span class="call-to-action">
+              Want to be a world class software developer ? <br />
+              <a href="http://apply.andela.com/" target="_blank" on-click="_tappedApply">Apply to the Andela Fellowship.</a>
+            </span>
+          </p> -->
+          <!-- <p>The curriculum is available for download, and can be used offline. Here is how :</p>
+          <ol>
+            <li>Download Home Study <a href="https://goo.gl/CRpuyj" target="_blank" on-click="_tappedAhsDownload">here</a> and unzip it to a local directory</li>
+            <li>Install the <a href="https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en" target="_blank">Web Server</a> for <a href="https://www.google.com/chrome/browser/desktop/index.html" target="_blank">Chrome</a> extension</li>
+            <li>Open Chrome and go to <a href="chrome://apps/" target="_blank">chrome://apps/</a> then click on the Web Server app to open it</li>
+            <li>Click on "OPEN FOLDER" from the Web Server extension, and load up the directory you unzipped Home Study into</li>
+            <li>Navigate to the link provided, something like <a href="http://127.0.0.1:80801/" target="_blank">http://127.0.0.1:80801/ </a> </li>
+          </ol> -->
+        </div>
+        <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet">
+
+          <h1>Curriculum Structure</h1>
+          <table class="modules-tbl full-width mdl-data-table mdl-js-data-table mdl-shadow--3dp">
+            <thead>
+              <tr>
+                <th class="mdl-data-table__cell--non-numeric"><h3>Modules</h3></th>
+
+                <th class="mdl-data-table__cell--non-numeric"><h3>Stack-Agnostic</h3></th>
+                <th class="mdl-data-table__cell--non-numeric"><h3>Stack-Specific</h3></th>
+
+              </tr>
+            </thead>
+            <tbody>
+              <!--
+              <tr>
+                <td class="mdl-data-table__cell--non-numeric" colspan="6"><a href="[[rootPath]]modules/0">Team and Professional Skills</a></td>
+              </tr>
+              -->
+
+              <tr>
+                <td class="mdl-data-table__cell--non-numeric"><a href="[[rootPath]]modules/0">Team and Professional Skills</a></td>
+                <td class="mdl-data-table__cell--non-numeric"><iron-icon icon="my-icons:check-circle"></iron-icon></td>
+              </tr>
+
+              <tr>
+                <td class="mdl-data-table__cell--non-numeric"><a href="[[rootPath]]modules/1">Stack-Agnostic Technical Skills</a></td>
+                <td class="mdl-data-table__cell--non-numeric"><iron-icon icon="my-icons:check-circle"></iron-icon></td>
+              </tr>
+
+              <tr>
+                <td class="mdl-data-table__cell--non-numeric" colspan="2"><a href="[[rootPath]]modules/2">Ruby Fundamentals</a></td>
+                <td class="mdl-data-table__cell--non-numeric"><iron-icon icon="my-icons:check-circle"></iron-icon></td>
+                <!--
+                <td class="mdl-data-table__cell--non-numeric"><a href="[[rootPath]]modules/2">Ruby Fundamentals</a></td>
+                <td class="mdl-data-table__cell--non-numeric"><iron-icon icon="my-icons:check-circle"></iron-icon></td>
+                <td class="mdl-data-table__cell--non-numeric"><iron-icon icon="my-icons:check-circle"></iron-icon></td>
+                -->
+              </tr>
+
+              <tr>
+                <td class="mdl-data-table__cell--non-numeric" colspan="2"><a href="[[rootPath]]modules/3">Ruby on Rails Fundamentals</a></td>
+                <td class="mdl-data-table__cell--non-numeric"><iron-icon icon="my-icons:check-circle"></iron-icon></td>
+              </tr>
+
+              <tr>
+                <td class="mdl-data-table__cell--non-numeric" colspan="2"><a href="[[rootPath]]modules/4">Ruby on Rails Capstone Project</a></td>
+                <td class="mdl-data-table__cell--non-numeric"><iron-icon icon="my-icons:check-circle"></iron-icon></td>
+              </tr>
+
+              <tr>
+                <td class="mdl-data-table__cell--non-numeric" colspan="2"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdyFBpWugHpQzf1-xfCFCm7b9oLWpdKhP5t3iDGzEG-Lqf2zA/viewform">Curriculum Feedback Form</a></td>
+              </tr>
+
+
+            </tbody>
+          </table>
+
+        </div>
+      </div>
+    </div>
+  </template>
+
+  <script>
+    class HomePage extends Polymer.Element {
+      static get is() { return 'home-page'; }
+
+      _tappedApply(e) {
+        this._gaEvt('Apply to Fellowship', 'click', 'UI Interaction');
+      }
+
+      _tappedAhsDownload(e) {
+        this._gaEvt('Download AHS-1.x', 'click', 'UI Interaction');
+      }
+
+      _gaEvt(prop, action, label) {
+        ga('send', 'event', prop, action, label, {
+          hitCallback: function() {}
+        });
+      }
+    }
+
+    window.customElements.define(HomePage.is, HomePage);
+  </script>
+</dom-module>
